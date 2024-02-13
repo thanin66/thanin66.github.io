@@ -1,4 +1,5 @@
-![banner](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/787237f9-4c81-4f27-8fbd-f8da87fe3ef0/original=true/BC41505053F62845C2D69752E6EAB617A0DACDFDBD7E89946DB7FB8311C992CC.jpeg)
+![banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdEFLdnx_4ezWtyG0nFBukod13Lzm27jHOKQ&usqp=CAU)
+
 # สมุดบันทึก
 
 สำหรับรายวิชา OOP
