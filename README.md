@@ -1,4 +1,4 @@
-![banner](https://play-lh.googleusercontent.com/_1CV99jklLbXuun-6E7eCPR-sKKeZc602rhw_QHZz-qm7xrPdgWsJVc7NtFkkliI8No=w240-h480-rw)
+![banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlfudctX7XshszKq6fJyzllwgH2M269x8lOA&usqp=CAU)
 # สมุดบันทึก
 
 สำหรับรายวิชา OOP
