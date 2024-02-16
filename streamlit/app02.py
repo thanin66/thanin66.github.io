@@ -7,7 +7,7 @@ st.title('Hello')
 st.image('https://media0.giphy.com/media/xUA7b5ix0igTG9CyU8/giphy.gif')
 st.text_input("What's your name?")
 
-
+print(a)
 
 
 
