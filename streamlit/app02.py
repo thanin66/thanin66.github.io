@@ -1,23 +1,7 @@
-import streamlit as st
-st.sidebar.text('Sidebar')
-st.sidebar.button('sa')
-st.sidebar.button('wat>')
-st.sidebar.button('dee')
-st.title('Hello')
-st.image('https://media0.giphy.com/media/xUA7b5ix0igTG9CyU8/giphy.gif')
-st.text_input("What's your name?")
+import streamlit
 
-print(a)
-
-
-
-
-
-
-
-
-
-
-
-
-
+h = streamlit.header('My Web Site on Diffusion')
+s = streamlit.subheader('เว็บไซต์ส่วนตัวของฉานน')
+p = streamlit.write('เว็บไซต์นี้แลกมาด้วยหยาดเหงื่อและความอดทน')
+banner = streamlit.image('https://picsum.photos/800/250')
+b = streamlit.button('click me')

@@ -1,4 +1,3 @@
-import streamlit as st
+import streamlit
 
-st.header("My OOP Notebook")
-
+print(streamlit.__version__)
